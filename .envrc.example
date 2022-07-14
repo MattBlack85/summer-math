@@ -1,0 +1,8 @@
+export SM_EMAIL_FROM=foo_from@gmail.com
+export SM_EMAIL_FROM_ALIAS=Sender
+export SM_EMAIL_TO=foo-to@gmail.com
+export SM_EMAIL_TO_ALIAS=Alias
+export SM_EMAIL_SUBJECT="AN INTERESTING SUBJECT"
+export SM_EMAIL_BODY="An impressive body"
+export SM_GMAIL_USERNAME=foo@bar.com
+export SM_GMAIL_PASSWORD=XXXXXX
